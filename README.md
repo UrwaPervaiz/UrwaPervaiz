@@ -25,6 +25,7 @@
 - Improving my DSA skills on LeetCode
 - Exploring Gen AI & ML integrations
 - Collaborating on innovative AI-based platforms
+- Participating in international hackathons
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urwapervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="urwapervaiz" /> </p>
 
