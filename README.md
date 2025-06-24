@@ -1,9 +1,34 @@
 <h1 align="center">Hi 👋, I'm Urwa Pervaiz</h1>
 <h3 align="center">A passionate Website Developer from Pakistan</h3>
 
+🎓 A passionate Software Engineer with a strong background in full-stack web development, AI/ML integration, and problem-solving. I'm deeply interested in building impactful tech solutions, contributing to open source, and constantly learning to stay ahead in the evolving tech world.
+
+🚀 I’ve worked on exciting projects ranging from AI-powered content platforms to smart quiz systems and immersive AR-based e-commerce sites.
+
+### 👩‍💻 About Me : 
+🎯 I specialize in Generative AI, computer vision, full-stack web development, and data-driven applications.  
+🧠 I’m passionate about solving real-world problems with clean, efficient, and scalable code.  
+🛠️ I’ve built impactful applications ranging from AI-powered podcast tools and quiz systems to budgeting platforms and AR-enhanced e-commerce solutions.  
+🌱 I’m a continuous learner and actively improving my DSA skills while exploring new tech trends.  
+🌐 I love contributing to the tech community through open-source projects, mentorship, and knowledge-sharing.  
+🚀 Always open to collaborating on innovative, meaningful, and challenging projects!
+
+### 🛠️ Tech Stack:
+- **Languages:** Python, JavaScript, PHP, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Flask, FastAPI
+- **Databases:** MySQL, MongoDB
+- **AI Tools:** OpenAI, Hugging Face, Whisper, Text-to-Speech APIs
+- **Other Tools:** Git, VS Code, Postman, Figma, Docker (beginner)
+
+
+### 🌱 Currently:
+- Improving my DSA skills on LeetCode
+- Exploring Gen AI & ML integrations
+- Collaborating on innovative AI-based platforms
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urwapervaiz&label=Profile%20views&color=0e75b6&style=flat" alt="urwapervaiz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urwapervaiz" alt="urwapervaiz" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +42,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urwapervaiz&show_icons=true&locale=en&layout=compact" alt="urwapervaiz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urwapervaiz&show_icons=true&locale=en" alt="urwapervaiz" /></p>
+Thanks for stopping by! ⭐️
